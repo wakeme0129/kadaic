@@ -17,5 +17,5 @@ function clock(){
   
   let result=document.getElementById("result");
   
-  result.texyContent=hh +":"+mm+":"+ss;
+  result.textContent=hh +":"+mm+":"+ss;
 }
